@@ -15,3 +15,8 @@ console.log(variable)
 // console.log(variable)
 // variable = 251
 // console.log(variable)
+
+// variable = 250
+// console.log(variable)
+// variable = 251
+// console.log(variable)

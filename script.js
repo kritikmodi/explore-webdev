@@ -5,3 +5,8 @@ setInterval(() => {
 }, 1000)
 
 console.log('Hello world!')
+
+const variable = 250
+console.log(variable)
+variable = 251
+console.log(variable)

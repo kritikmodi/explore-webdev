@@ -6,15 +6,15 @@ setInterval(() => {
 
 console.log('Hello world!')
 
-const variable = 250
-console.log(variable)
-variable = 251
-console.log(variable)
-
-// let variable = 250
+// const variable = 250
 // console.log(variable)
 // variable = 251
 // console.log(variable)
+
+let variable = 250
+console.log(variable)
+variable = 251
+console.log(variable)
 
 // variable = 250
 // console.log(variable)
